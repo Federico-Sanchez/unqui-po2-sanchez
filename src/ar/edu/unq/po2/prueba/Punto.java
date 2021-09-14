@@ -1,7 +1,7 @@
 package ar.edu.unq.po2.prueba;
 
 public class Punto {
-	
+
 	
 	private float x;
 	private float y;
@@ -32,7 +32,6 @@ public class Punto {
 	public void setY(float y) {
 		this.y = y;
 	}
-	
 	
 	
 	
