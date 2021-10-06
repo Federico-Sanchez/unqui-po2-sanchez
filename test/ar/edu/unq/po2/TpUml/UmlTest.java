@@ -1,4 +1,6 @@
-/*import example.*
+/*
+
+import example.*
 
 
 describe "instancias"{
@@ -56,5 +58,6 @@ describe "instancias"{
 		assert.equals(3,empresa1.cantidadRecibos())
 	}	
 }
+
 
 */

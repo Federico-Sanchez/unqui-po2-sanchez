@@ -1,6 +1,7 @@
-/* realizado en wollok
 
+// Codigo realizado en wollok
 
+/*
 
 
 class Empresa {
@@ -279,7 +280,7 @@ class PlantaTemporaria inherits Empleado {
 }
 
 
-// PUNTO 2 -b
+// punto 2 -b
 class Contratado inherits Empleado {
 	
 	var numeroContrato
@@ -307,12 +308,13 @@ class Contratado inherits Empleado {
 
 
 
-//c -  No necesito modificar la clase empresa, porque no fue necesario ya que las clases empleados son independientes de la clase Empresa y seria una mala practica que por agregar
+//c No necesito modificar la clase empresa, porque no fue necesario ya que las clases empleados son independientes de la clase Empresa y seria una mala practica que por agregar
 // una clase extra tenga que modificar otra clase 
 
 
+
+
+
+
+
 */
-
-
-
-
