@@ -10,6 +10,11 @@ public class Punto {
 		return x;
 	}
 
+	
+	public void setXY(float x, float y) {
+		this.setX(x);
+		this.setY(y);
+	}
 	public void setX(float x) {
 		this.x = x;
 	}
@@ -25,7 +30,6 @@ public class Punto {
 	
 	public Punto(float x, float y) {
 		super();
-		this.x = x;
-		this.y = y;
+		setXY( x,  y);
 	}
 }
